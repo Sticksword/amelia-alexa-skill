@@ -1,0 +1,12 @@
+{
+  "name": "Amelia",
+  "version": "1.0.0",
+  "description": "Virtual vacation at home. ",
+  "dependencies": {
+    "alexa-sdk": "1.0.5",
+    "aws-sdk": "2.5.4",
+    "request": "2.72.0",
+    "request-promise": "^4.1.1"
+  },
+  "author": "Zaplabs"
+}
